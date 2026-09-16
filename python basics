@@ -1,0 +1,25 @@
+name = "Archita"
+age =18
+percentage = 85.5
+student = True
+course = "B.Sc. Computer science with cyber security"
+year = 2
+learning_python = True
+#...........student profile...........
+print("-----Student Profile-----")
+print("Name:", name)
+print("Age:", age)
+print("Percentage:", percentage)
+print("Student:", student)
+print("Course:", course)
+print("Year:", year)
+print("Learning Python:", learning_python)
+#............data types...........
+print("-----Data Types-----")
+print("Name:",type(name))
+print("Age:",type(age))
+print("Percentage:",type(percentage))
+print("Student:",type(student))
+print("Course:",type(course))
+print("Year:",type(year))
+print("Learning Python:",type(learning_python))
